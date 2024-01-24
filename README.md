@@ -5,7 +5,7 @@
 - 🌱 Currently a Software Engineering student at ALX.
 - 🤝 I'm open to collaborating with  fellow developers.
 - 💬 Ask me about **Python, c, Javascript, HTML, CSS, DevOps, SQL, NoSQL**
-- 📫 How to reach me **marymutso2016@gmai.com**
+- 📫 How to reach me **marymutso2016@gmail.com**
 - ⚡Funfact: I love dogs.
 
 ### Let's Connect
