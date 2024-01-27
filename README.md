@@ -26,5 +26,5 @@
 
 #### My GitHub Stats
 
-<a href="http://www.github.com/Mutisomary"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutisomary&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mutisomary"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutisomary&stroke=ffffff&background=1c1917&ring=#C41E3A&fire=#C41E3A&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
