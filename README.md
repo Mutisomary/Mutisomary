@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mary Mutiso
 ## A Software Engineering Student
-- 🌍  I'm based in Nairobi, Kenya
+- 🌍  I'm based in Nairobi, Kenya.
 - 🚀  I'm working towards being a full-stack engineer.
 - 🌱 Currently a Software Engineering student at ALX.
 - 🤝 I'm open to collaborating with  fellow developers.
